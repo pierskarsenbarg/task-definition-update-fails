@@ -1,0 +1,3 @@
+name: task-definition-update-fails
+description: A minimal AWS TypeScript Pulumi program
+runtime: nodejs
